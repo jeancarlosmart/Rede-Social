@@ -23,4 +23,5 @@ head{
 h1{
     font-size: 2rem;
     color: var(--bg-color);
+    font-weight: 700;
 }
